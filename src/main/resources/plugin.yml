@@ -1,0 +1,11 @@
+name: "Manhunt"
+version: 1.0.0
+api-version: 1.18
+author: "Nikho"
+main: "fr.nikho.manhunt.Manhunt"
+commands:
+  manhunt:
+    aliases:
+      - mh
+    description: 'Manhunt admin command'
+    usage: 'Manage manhunt game'
